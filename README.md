@@ -18,6 +18,8 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
+## 💻 Projeto
+
 O projeto consiste em um **aplicativo** que tem como objetivo auxiliar o público vegano na escolha de produtos em lojas. O aplicativo utiliza tecnologias **NodeJS e React Native** para funcionar.
 
 Ao usar o aplicativo, os usuários podem escanear os rótulos dos produtos utilizando a câmera do seu celular. O aplicativo, em seguida, verifica os ingredientes listados no rótulo e informa se o produto é vegano ou não utilizando uma API de OCR(Reconhecimento ótico de caracteres).
@@ -28,9 +30,11 @@ Com o uso do aplicativo, os usuários podem tomar decisões informadas sobre a c
 
 Em resumo, o aplicativo é uma ferramenta útil para ajudar o público vegano a fazer escolhas conscientes e ter acesso a informações precisas sobre a composição de produtos disponíveis nas lojas.
 
-## :video: Vídeo
+## 🎨 Layout
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6811666838062272512" height="703" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
+<p align="center">
+    <img alt="VeggieChoice" title="#GoBarber" src="/Design/capa.png"/>
+</p>
 
 <!--
 [![](https://img.shields.io/pypi/v/mvt)](https://pypi.org/project/mvt/)
