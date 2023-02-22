@@ -28,6 +28,10 @@ Com o uso do aplicativo, os usuários podem tomar decisões informadas sobre a c
 
 Em resumo, o aplicativo é uma ferramenta útil para ajudar o público vegano a fazer escolhas conscientes e ter acesso a informações precisas sobre a composição de produtos disponíveis nas lojas.
 
+## :video: Vídeo
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6811666838062272512" height="703" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe>
+
 <!--
 [![](https://img.shields.io/pypi/v/mvt)](https://pypi.org/project/mvt/)
 [![Documentation Status](https://readthedocs.org/projects/mvt/badge/?version=latest)](https://docs.mvt.re/en/latest/?badge=latest)
