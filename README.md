@@ -33,7 +33,7 @@ Em resumo, o aplicativo é uma ferramenta útil para ajudar o público vegano a 
 ## 🎨 Layout
 
 <p align="center">
-    <img alt="VeggieChoice" title="#GoBarber" src="/Design/capa.png"/>
+    <img alt="VeggieChoice" title="#VeggieChoice" src="/Design/capa.png"/>
 </p>
 
 <!--
